@@ -1,0 +1,26 @@
+[06-May-2018 19:36:20 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ravexchange/public_html/wallscript/api/index.php on line 246
+[06-May-2018 19:36:22 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ravexchange/public_html/wallscript/api/index.php on line 246
+[06-May-2018 19:36:24 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ravexchange/public_html/wallscript/api/index.php on line 246
+[06-May-2018 19:36:32 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ravexchange/public_html/wallscript/api/index.php on line 246
+[06-May-2018 19:36:35 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ravexchange/public_html/wallscript/api/index.php on line 246
+[06-May-2018 19:41:09 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ravexchange/public_html/wallscript/api/index.php on line 246
+[06-May-2018 19:41:18 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ravexchange/public_html/wallscript/api/index.php on line 246
+[06-May-2018 19:41:20 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ravexchange/public_html/wallscript/api/index.php on line 246
+[06-May-2018 19:44:04 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ravexchange/public_html/wallscript/api/index.php on line 246
+[06-May-2018 19:44:39 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ravexchange/public_html/wallscript/api/index.php on line 246
+[06-May-2018 19:44:50 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ravexchange/public_html/wallscript/api/index.php on line 246
+[06-May-2018 19:44:54 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ravexchange/public_html/wallscript/api/index.php on line 246
+[06-May-2018 23:19:00 UTC] PHP Fatal error:  Cannot redeclare groupUpdate() (previously declared in /home2/ravexchange/public_html/wallscript/api/index.php:3300) in /home2/ravexchange/public_html/wallscript/api/index.php on line 3469
+[06-May-2018 23:19:42 UTC] PHP Fatal error:  Cannot redeclare groupUpdate() (previously declared in /home2/ravexchange/public_html/wallscript/api/index.php:3300) in /home2/ravexchange/public_html/wallscript/api/index.php on line 3469
+[06-May-2018 23:22:35 UTC] PHP Fatal error:  Cannot redeclare groupUpdate() (previously declared in /home2/ravexchange/public_html/wallscript/api/index.php:3300) in /home2/ravexchange/public_html/wallscript/api/index.php on line 3469
+[06-May-2018 23:22:40 UTC] PHP Fatal error:  Cannot redeclare groupUpdate() (previously declared in /home2/ravexchange/public_html/wallscript/api/index.php:3300) in /home2/ravexchange/public_html/wallscript/api/index.php on line 3469
+[06-May-2018 23:23:05 UTC] PHP Fatal error:  Cannot redeclare groupUpdate() (previously declared in /home2/ravexchange/public_html/wallscript/api/index.php:3300) in /home2/ravexchange/public_html/wallscript/api/index.php on line 3469
+[06-May-2018 23:24:14 UTC] PHP Fatal error:  Cannot redeclare groupUpdate() (previously declared in /home2/ravexchange/public_html/wallscript/api/index.php:3300) in /home2/ravexchange/public_html/wallscript/api/index.php on line 3469
+[06-May-2018 23:24:19 UTC] PHP Fatal error:  Cannot redeclare groupUpdate() (previously declared in /home2/ravexchange/public_html/wallscript/api/index.php:3300) in /home2/ravexchange/public_html/wallscript/api/index.php on line 3469
+[06-May-2018 23:26:33 UTC] PHP Fatal error:  Cannot redeclare groupUpdate() (previously declared in /home2/ravexchange/public_html/wallscript/api/index.php:3300) in /home2/ravexchange/public_html/wallscript/api/index.php on line 3469
+[06-May-2018 23:26:56 UTC] PHP Fatal error:  Cannot redeclare groupUpdate() (previously declared in /home2/ravexchange/public_html/wallscript/api/index.php:3300) in /home2/ravexchange/public_html/wallscript/api/index.php on line 3469
+[06-May-2018 23:30:38 UTC] PHP Fatal error:  Cannot redeclare groupUpdate() (previously declared in /home2/ravexchange/public_html/wallscript/api/index.php:3300) in /home2/ravexchange/public_html/wallscript/api/index.php on line 3469
+[06-May-2018 23:31:15 UTC] PHP Fatal error:  Cannot redeclare groupUpdate() (previously declared in /home2/ravexchange/public_html/wallscript/api/index.php:3300) in /home2/ravexchange/public_html/wallscript/api/index.php on line 3469
+[06-May-2018 23:31:19 UTC] PHP Fatal error:  Cannot redeclare groupUpdate() (previously declared in /home2/ravexchange/public_html/wallscript/api/index.php:3300) in /home2/ravexchange/public_html/wallscript/api/index.php on line 3469
+[06-May-2018 23:31:35 UTC] PHP Fatal error:  Cannot redeclare groupUpdate() (previously declared in /home2/ravexchange/public_html/wallscript/api/index.php:3300) in /home2/ravexchange/public_html/wallscript/api/index.php on line 3469
+[06-May-2018 23:31:44 UTC] PHP Fatal error:  Cannot redeclare groupUpdate() (previously declared in /home2/ravexchange/public_html/wallscript/api/index.php:3300) in /home2/ravexchange/public_html/wallscript/api/index.php on line 3469
