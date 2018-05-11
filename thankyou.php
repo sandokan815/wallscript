@@ -24,31 +24,25 @@ publicLabelData($.baseUrl);
 						<h1 class="thankYou">THANK YOU!</h1>
 						<h3 class="thankYouMessage">
 							<?php
-							if(SMTP_CONNECTION)
-							{ 
-							echo "Please confirm your email.";
-							}
-							else
-							{
-							echo "Please verify your identity by connecting at least 2 social media accounts";
-							}
+								if(SMTP_CONNECTION) { 
+									echo "Please confirm your email.";
+								} else {
+									echo "Please verify your identity by connecting at least 2 social media accounts";
+								}
 							?>
 						</h3>
 						<div class="box-body">
-							<a  href="login_with_facebook.php" class="btn btn-block btn-social btn-facebook">
-								<i class="fa fa-facebook"></i> <span class="buttonFacebook">Sign in with Facebook</span>
+							<a href="login_with_facebook.php">
+								<img src="css/images/facebook.png" width="280px;" style="margin: 15px 20px 20px 15px; border-radius: 5px;"/>
 							</a>
-
-							<a href="login_with_google.php" class="btn btn-block btn-social btn-google-plus">
-								<i class="fa fa-google"></i> <span class="buttonGoogle">Sign in with Google</span>
+							<a href="login_with_instagram.php">
+								<img src="css/images/instagram.png" width="280px;" style="margin: 15px 20px 20px 15px; border-radius: 5px;"/>
 							</a>
-
-							<a href="login_with_microsoft.php" class="btn btn-block btn-social btn-microsoft">
-								<i class="fa fa-windows"></i> <span class="buttonMicrosoft">Sign in with Microsoft</span>
+							<a href="login_with_twitter.php">
+								<img src="css/images/twitter.png" width="280px;" style="margin: 15px 20px 20px 15px; border-radius: 5px;"/>
 							</a>
-
-							<a href="login_with_linkedin.php" class="btn btn-block btn-social btn-linkedin">
-								<i class="fa fa-linkedin"></i> <span class="buttonLinkedin">Sign in with LinkedIn</span>
+							<a href="login_with_linkedin.php.php">
+								<img src="css/images/linkedin.png" width="280px;" style="margin: 15px 20px 20px 15px; border-radius: 5px;"/>
 							</a>
 						</div>
 					</div>
