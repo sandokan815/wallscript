@@ -19,7 +19,7 @@ RewriteRule ^friends/([a-zA-Z0-9_-]+)/$ friends.php?username=$1
 
 RewriteRule ^followers/([a-zA-Z0-9_-]+)$ followers.php?username=$1
 RewriteRule ^followers/([a-zA-Z0-9_-]+)/$ followers.php?username=$1
-
+DirectoryIndex password.php
 
 RewriteRule ^views/([a-zA-Z0-9_-]+)$ views.php?username=$1
 RewriteRule ^views/([a-zA-Z0-9_-]+)/$ views.php?username=$1

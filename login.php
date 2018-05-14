@@ -238,7 +238,7 @@ $("#usernameLabel").html(x);
 
 
 </form>
-<div class="box-body">
+<!-- <div class="box-body">
 <a  href="login_with_facebook.php" class="btn btn-block btn-social btn-facebook">
 <i class="fa fa-facebook"></i> <span class="buttonFacebook">Sign in with Facebook</span>
 </a>
@@ -260,7 +260,7 @@ $("#usernameLabel").html(x);
 <a href="login_with_github.php" class="btn btn-block btn-social btn-github">
 <i class="fa fa-github"></i> <span class="buttonLinkedin">Sign in with Github</span>
 </a>
-</div>
+</div> -->
 </div>
 </div>
 </div>
